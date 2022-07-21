@@ -1,0 +1,102 @@
+* {
+    padding: 0;
+    margin:0;
+}
+
+input[type=search] {
+    width: 50%;
+    height: 50px;
+    border: none;
+    border-radius: 25px;
+    font-size: 18px;
+    box-shadow: 1px 1px 1px 1px gray;
+    padding: 15px;
+    margin-left: 20px;
+}
+span.sert {
+
+    width: 75px;
+    height: 35px;
+    margin-left: 345px;
+}
+     
+}
+span.filtre {
+   
+}
+span.style {
+    margin: 380px;
+    width: 40px;
+    height: 25px;
+    text-align: 50px;
+    }
+
+.botom {
+    border-bottom: 3px solid blue; 
+   padding-bottom: 18px;
+}
+span.entete{
+  margin-left: 180px;
+
+}
+a{
+    text-decoration: none;
+    color: black;
+}
+
+
+
+/*corps*/
+
+}
+
+div.bady {
+    width: 90%;
+    display: flex;
+    padding: 10px 10px;
+    margin-left: 30px;
+
+}
+
+div.img {
+    width: 230px;
+    height: 200px;
+    border: 1px;
+    border-radius: 15px;
+    padding: 10px;
+    display: inline-block;
+    box-shadow: 0.5px 0.5px 0.5px 0.5px gray;
+    margin-left: 5px;
+}
+
+
+div.nourri {
+    width: 150px;
+    height: 50px;
+    border-radius: 30px;
+    border: 1px solid skyblue;
+    display: flex;
+    margin: 7px;
+
+
+}
+
+div.nourri img {
+    width: 50px;
+    height: 45px;
+    border-radius:35px;
+}
+
+div.nourriture {
+    display: flex;
+    padding: 10px 10px 10px;
+    
+}
+
+
+
+.test{
+margin-left: 10px;
+margin-top: 6px;
+
+}
